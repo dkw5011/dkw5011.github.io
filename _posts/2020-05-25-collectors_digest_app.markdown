@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Collectors Digest App"
-date:       2020-05-25 18:58:02 +0000
+date:       2020-05-25 14:58:03 -0400
 permalink:  collectors_digest_app
 ---
 
